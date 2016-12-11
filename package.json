@@ -1,0 +1,20 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Drag'n'Drop",
+  "main": "main.js",
+  "scripts": {
+    "lint": "jshint *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjeiHolub/Drag-n-Drop.git"
+  },
+  "author": "Anjei Holub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnjeiHolub/Drag-n-Drop/issues"
+  },
+  "homepage": "https://github.com/AnjeiHolub/Drag-n-Drop#readme"
+}
