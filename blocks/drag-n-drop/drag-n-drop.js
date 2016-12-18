@@ -42,7 +42,7 @@
 
     _onMouseUp () {
     	document.removeEventListener('mousemove', this._onMouseMove);
-    	this._elem.removeEventListener('mouseuo', this._onMouseUp);
+    	this._elem.removeEventListener('mouseup', this._onMouseUp);
     }
 
     _moveAt (target, event) {
